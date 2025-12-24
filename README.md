@@ -85,6 +85,9 @@ Conclusion: Pricing and quantity sold are the strongest predictors of revenue
 
 5. Power BI Dashboard
 
+   ## 📊 Power BI Dashboard – Overview
+   ![Smartphone Sales Dashboard Overview](https://1drv.ms/i/c/575cefc75b0439a2/IQDnabTRH0JjS4DtcmY574L7AWDNXSQUgUJ9uQEXhHa3NP0?e=FvfTe4)
+
 Dashboard includes:
 
 Total Revenue, Total Profit, Total Quantity Sold, Profit Margin %
